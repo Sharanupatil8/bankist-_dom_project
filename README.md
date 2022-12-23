@@ -2,4 +2,4 @@
 
 modern bank landing site  using html css javascript
 
-url https://bankistdom-sharan.netlify.app/
+url :  https://bankistdom-sharan.netlify.app/
